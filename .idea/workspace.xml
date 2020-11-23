@@ -22,9 +22,10 @@
     <list default="true" id="464dd5bf-0fc1-45e2-99ae-f564f957e9d8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Store/src/app/admin/login-page/login-page.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Store/src/app/admin/login-page/login-page.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Store/src/app/admin/shared/admin-layout/admin-layout.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Store/src/app/admin/shared/admin-layout/admin-layout.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Store/src/app/admin/shared/admin-layout/admin-layout.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Store/src/app/admin/shared/admin-layout/admin-layout.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Store/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Store/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Store/src/environments/environment.prod.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Store/src/environments/environment.prod.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Store/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Store/src/environments/environment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Store/src/app/shared/auth.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Store/src/app/shared/auth.service.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +74,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605990891297</updated>
-      <workItem from="1605990892643" duration="12781000" />
+      <workItem from="1605990892643" duration="14363000" />
+      <workItem from="1606134493268" duration="1220000" />
     </task>
     <servers />
   </component>
@@ -90,24 +92,25 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="894" height="192" key="GridCell.Tab.0.bottom" timestamp="1606110611591">
+    <state width="758" height="192" key="GridCell.Tab.0.bottom" timestamp="1606134861368">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="894" height="192" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606110611591" />
-    <state width="894" height="192" key="GridCell.Tab.0.center" timestamp="1606110611590">
+    <state width="758" height="192" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606134861368" />
+    <state width="758" height="192" key="GridCell.Tab.0.center" timestamp="1606134861368">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="894" height="192" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606110611590" />
-    <state width="894" height="192" key="GridCell.Tab.0.left" timestamp="1606110611590">
+    <state width="758" height="192" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606134861368" />
+    <state width="758" height="192" key="GridCell.Tab.0.left" timestamp="1606134861368">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="894" height="192" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606110611590" />
-    <state width="894" height="192" key="GridCell.Tab.0.right" timestamp="1606110611590">
+    <state width="758" height="192" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606134861368" />
+    <state width="758" height="192" key="GridCell.Tab.0.right" timestamp="1606134861368">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="894" height="192" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606110611590" />
+    <state width="758" height="192" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606134861368" />
     <state x="0" y="50" key="SettingsEditor" timestamp="1605992880776">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
