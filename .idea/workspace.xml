@@ -21,14 +21,10 @@
   <component name="ChangeListManager">
     <list default="true" id="464dd5bf-0fc1-45e2-99ae-f564f957e9d8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Store/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Store/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Store/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Store/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Store/src/app/admin/add-page/add-page.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Store/src/app/admin/add-page/add-page.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Store/src/app/admin/add-page/add-page.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Store/src/app/admin/add-page/add-page.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Store/src/app/admin/admin.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Store/src/app/admin/admin.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Store/src/app/admin/shared/admin-layout/admin-layout.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Store/src/app/admin/shared/admin-layout/admin-layout.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Store/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Store/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Store/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Store/src/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Store/src/environments/environment.prod.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Store/src/environments/environment.prod.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Store/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Store/src/environments/environment.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +76,7 @@
       <workItem from="1605990892643" duration="14363000" />
       <workItem from="1606134493268" duration="2690000" />
       <workItem from="1606194925034" duration="134000" />
-      <workItem from="1606195077535" duration="2067000" />
+      <workItem from="1606195077535" duration="5880000" />
     </task>
     <servers />
   </component>
