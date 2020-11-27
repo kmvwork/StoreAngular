@@ -32,8 +32,8 @@ export class AddPageComponent implements OnInit {
   submit() {
     if (this.form.invalid) {
       return null
-    } else
-      this.submitted = true
+    }
+    this.submitted = true
 
     const product = {
       type: this.form.value.type,
