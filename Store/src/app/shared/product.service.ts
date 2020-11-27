@@ -33,10 +33,10 @@ export class ProductService {
         map(res => {
           return Object.keys(res)
             .map(key => ({
-                ...res[key],
-                id: key,
-                date: new Date(res[key].date)
-              }))
+              ...res[key],
+              id: key,
+              date: new Date(res[key].date)
+            }))
         }))
   }
 
@@ -50,5 +50,13 @@ export class ProductService {
             date: new Date(res.date)
           }
         }))
+  }
+
+  remove(id) {
+    return this.http.delete(`${environment.fbDbUrl}/products/${id}.json`)
+  }
+
+  update(product: Product) {
+    return this.http.patch(`${environment.fbDbUrl}/products/${product.id}.json`, product)
   }
 }
