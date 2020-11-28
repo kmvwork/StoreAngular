@@ -11,7 +11,7 @@ export class MainPageComponent implements OnInit {
   products$: Observable<any>
 
   constructor(
-    private productServ: ProductService
+    public productServ: ProductService
   ) {
   }
 
