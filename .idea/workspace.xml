@@ -21,14 +21,13 @@
   <component name="ChangeListManager">
     <list default="true" id="464dd5bf-0fc1-45e2-99ae-f564f957e9d8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Store/src/app/admin/admin.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Store/src/app/admin/admin.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Store/src/app/admin/dashboard/dashboard.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Store/src/app/admin/dashboard/dashboard.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Store/src/app/admin/dashboard/dashboard.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Store/src/app/admin/dashboard/dashboard.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Store/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Store/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Store/src/app/main-page/main-page.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Store/src/app/main-page/main-page.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Store/src/app/main-page/main-page.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Store/src/app/main-page/main-page.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Store/src/app/shared/main-layout/main-layout.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Store/src/app/shared/main-layout/main-layout.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Store/src/app/shared/main-layout/main-layout.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Store/src/app/shared/main-layout/main-layout.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Store/src/app/cart-page/cart-page.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Store/src/app/cart-page/cart-page.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Store/src/app/cart-page/cart-page.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Store/src/app/cart-page/cart-page.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Store/src/app/cart-page/cart-page.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Store/src/app/cart-page/cart-page.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Store/src/app/product-page/product-page.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Store/src/app/product-page/product-page.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Store/src/app/product-page/product-page.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Store/src/app/product-page/product-page.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Store/src/app/product/product.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Store/src/app/product/product.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Store/src/app/product/product.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Store/src/app/product/product.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Store/src/app/shared/product.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Store/src/app/shared/product.service.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +88,9 @@
       <workItem from="1606504518699" duration="1128000" />
       <workItem from="1606541348667" duration="1782000" />
       <workItem from="1606562971448" duration="1710000" />
-      <workItem from="1606564790309" duration="759000" />
+      <workItem from="1606564790309" duration="1355000" />
+      <workItem from="1606572463844" duration="774000" />
+      <workItem from="1606589762165" duration="1000000" />
     </task>
     <servers />
   </component>
@@ -113,22 +114,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="197" y="114" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1606245991988" />
-    <state width="663" height="223" key="GridCell.Tab.0.bottom" timestamp="1606565527660">
+    <state width="664" height="235" key="GridCell.Tab.0.bottom" timestamp="1606589907248">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="663" height="223" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606565527660" />
-    <state width="663" height="223" key="GridCell.Tab.0.center" timestamp="1606565527659">
+    <state width="664" height="235" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606589907248" />
+    <state width="664" height="235" key="GridCell.Tab.0.center" timestamp="1606589907248">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="663" height="223" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606565527659" />
-    <state width="663" height="223" key="GridCell.Tab.0.left" timestamp="1606565527659">
+    <state width="664" height="235" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606589907248" />
+    <state width="664" height="235" key="GridCell.Tab.0.left" timestamp="1606589907247">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="663" height="223" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606565527659" />
-    <state width="663" height="223" key="GridCell.Tab.0.right" timestamp="1606565527659">
+    <state width="664" height="235" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606589907247" />
+    <state width="664" height="235" key="GridCell.Tab.0.right" timestamp="1606589907248">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="663" height="223" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606565527659" />
+    <state width="664" height="235" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606589907248" />
     <state x="0" y="50" key="SettingsEditor" timestamp="1606245950375">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
