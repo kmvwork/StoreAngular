@@ -28,7 +28,7 @@ export class OrderService {
   }
 
   getAll() {
-    return this.http.get(`${environment.fbDbUrl}/products.json`)
+    return this.http.get(`${environment.fbDbUrl}/orders.json`)
       .pipe(
         map(res => {
           return Object.keys(res)
@@ -41,6 +41,6 @@ export class OrderService {
   }
 
   remove(id) {
-    return this.http.delete(`${environment.fbDbUrl}/products/${id}.json`)
+    return this.http.delete(`${environment.fbDbUrl}/orders/${id}.json`)
   }
 }
