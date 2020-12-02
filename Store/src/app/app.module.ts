@@ -12,6 +12,9 @@ import {QuillModule} from "ngx-quill";
 import {AuthInterceptor} from "./shared/auth.interceptor";
 import {ProductComponent} from './product/product.component';
 import { SortingPipe } from './shared/sorting.pipe';
+import {FormsModule, ReactiveFormsModule} from "@angular/forms";
+
+
 
 
 @NgModule({
@@ -25,6 +28,8 @@ import { SortingPipe } from './shared/sorting.pipe';
     SortingPipe,
   ],
   imports: [
+    FormsModule,
+    ReactiveFormsModule,
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,

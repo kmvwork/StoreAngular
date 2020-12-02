@@ -7,10 +7,10 @@ import {AddPageComponent} from './add-page/add-page.component';
 import {DashboardComponent} from './dashboard/dashboard.component';
 import {EditPageComponent} from './edit-page/edit-page.component';
 import {OrdersPageComponent} from './orders-page/orders-page.component';
-import {FormsModule, ReactiveFormsModule} from "@angular/forms";
 import {AuthGuard} from "../shared/auth.guard";
 import { QuillModule } from 'ngx-quill'
 import {SearchPipe} from "../shared/search.pipe";
+import {FormsModule, ReactiveFormsModule} from "@angular/forms";
 
 @NgModule({
   declarations: [
@@ -23,9 +23,9 @@ import {SearchPipe} from "../shared/search.pipe";
     SearchPipe
   ],
   imports: [
-    CommonModule,
     FormsModule,
     ReactiveFormsModule,
+    CommonModule,
     QuillModule.forRoot(),
     RouterModule.forChild([
       {
